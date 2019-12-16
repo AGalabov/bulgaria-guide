@@ -1,9 +1,2 @@
 .idea
 .DS_Store
-
-out/
-.idea/
-.idea_modules/
-*.iml
-*.ipr
-*.iws
